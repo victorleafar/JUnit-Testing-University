@@ -24,5 +24,15 @@ class LeapYearTest {
         boolean leap = leapYear.isLeapYear(2000);
         assertTrue(leap);
     }
-    
+    @Test
+    public void notDivisibleBy4(){
+        boolean leap = leapYear.isLeapYear(39);
+        assertFalse(leap);
+    }
+    @Test
+    public void divisibleBy4_and_100_not_400(){
+        boolean leap = leapYear.isLeapYear(1900);
+        assertFalse(leap);
+    }
 }
+
