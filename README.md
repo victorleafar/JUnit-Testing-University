@@ -1,7 +1,5 @@
 # JUnit-QA-University
 
-![JUnit Logo](https://upload.wikimedia.org/wikipedia/commons/3/38/JUnit_logo.svg)
-
 Este repositório contém um conjunto de testes JUnit para projetos acadêmicos na área de Qualidade de Software (QA). Os testes são projetados para verificar e validar o comportamento de diferentes componentes e funcionalidades, assegurando a qualidade e a confiabilidade do código.
 
 ## 🚀 Objetivo
