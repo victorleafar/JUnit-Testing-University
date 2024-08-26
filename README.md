@@ -9,7 +9,7 @@ O objetivo deste repositório é fornecer uma base sólida de testes JUnit que p
 
 ## 📁 Estrutura do Repositório
 
-- **`src/main/java`**: Código-fonte do projeto (se aplicável).
+- **`src/main/java`**: Código-fonte do projeto.
 - **`src/test/java`**: Contém os testes JUnit.
 
 ## 🛠️ Requisitos
